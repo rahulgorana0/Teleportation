@@ -52,12 +52,10 @@ Teleportation/
 ---
 
 ## 📷 Gameplay
-<img width="480" height="270" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/caaff308-79c9-48e7-b689-34a522e5b21f" />
-<img width="480" height="270" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/c2bdee52-fa75-4223-9366-4cf65b37cb96" />
-<p align="center">
-<img width="480" height="270" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/dbd15702-42b4-4a3c-bdc7-2f38a447ef5a" />
-</p>
-<img width="480" height="270" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/6c20b039-f857-40d9-997b-7e3b32a47608" />
+<img width="480" height="270" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/caaff308-79c9-48e7-b689-34a522e5b21f" /><br>
+<img width="480" height="270" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/c2bdee52-fa75-4223-9366-4cf65b37cb96" /><br>
+<img width="480" height="270" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/dbd15702-42b4-4a3c-bdc7-2f38a447ef5a" /><br>
+<img width="480" height="270" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/6c20b039-f857-40d9-997b-7e3b32a47608" /><br>
 <img width="480" height="270" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/4a20ef68-0d77-40cd-a567-d496a3ae519b" />
 
 
